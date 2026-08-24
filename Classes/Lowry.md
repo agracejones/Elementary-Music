@@ -1,9 +1,9 @@
 ---
 Grade: "5"
 Teacher: Mrs. Lowry
-Days:
-Time:
+Days: Wednesday, Friday
+Time: 2:10-2:40
 Unit:
-Lesson:
-Next Lesson:
+Lesson: "[[5th 1.1 - First day of school]]"
+Next Lesson: "[[5th 1.2 - Note values and so-mi]]"
 ---
