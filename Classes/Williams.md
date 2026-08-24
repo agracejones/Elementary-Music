@@ -1,11 +1,13 @@
 ---
 Grade: 3
-class: A
-teacher: Mrs. Smith
-days:
+Teacher: Mr. Williams
+Days:
   - Monday
   - Wednesday
-time:
-  Monday: 9:00-9:30
-  Wednesday: 10:15-10:45
+Time:
+  Monday: 10:10-10:40
+  Wednesday: 8:50-9:20
+Unit:
+Lesson:
+Next Le
 ---
