@@ -5,5 +5,5 @@ Days: Wednesday, Friday
 Time: 2:10-2:40
 Unit:
 Lesson: "[[5th 1.1 - First day of school]]"
-Next Lesson: "[[5th 1.2 - Note values and so-mi]]"
+NextLesson: "[[5th 1.2 - Note values and so-mi]]"
 ---
