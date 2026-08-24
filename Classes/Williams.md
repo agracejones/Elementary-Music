@@ -1,9 +1,7 @@
 ---
 Grade: 3
 Teacher: Mr. Williams
-Days:
-  - Monday
-  - Wednesday
+Days: Monday, Wednesday
 Time:
   Monday: 10:10-10:40
   Wednesday: 8:50-9:20
