@@ -1,9 +1,9 @@
 ---
-Grade:
+Grade: "2"
 Teacher: Mrs. Chuprova
-Days:
-Time:
+Days: Tuesday, Thursday
+Time: 1:30-2:00
 Unit:
-Lesson:
-Next Lesson:
+Lesson: "[[2nd 1.1 - First day of school]]"
+Next Lesson: "[[2nd 1.2 - Steady beat, high and low, fast and slow, loud and soft]]"
 ---

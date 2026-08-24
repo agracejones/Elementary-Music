@@ -1,9 +1,9 @@
 ---
 Grade: "4"
 Teacher: Mrs. Hice
-Days:
-Time:
+Days: Tuesday, Thursday
+Time: 10:10-10:40
 Unit:
-Lesson:
-Next Lesson:
+Lesson: "[[4th 1.1 - First day of school]]"
+Next Lesson: "[[4th 1.2 - Note values and so-mi]]"
 ---

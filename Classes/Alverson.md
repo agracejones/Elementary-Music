@@ -1,10 +1,10 @@
 ---
 Grade: K
 Teacher: Mrs. Alverson
-Days:
-Time:
+Days: Wednesday, Friday
+Time: 9:30-10:00
 Unit:
-Lesson:
+Lesson: "[[K 1.1 - First day of school]]"
 Next Lesson:
 ---
 
