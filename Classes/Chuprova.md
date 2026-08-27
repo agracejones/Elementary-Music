@@ -7,3 +7,4 @@ Unit:
 Lesson: "[[2nd 1.1 - First day of school]]"
 NextLesson: "[[2nd 1.2 - Steady beat, high and low, fast and slow, loud and soft]]"
 ---
+![[Chuprova.excalidraw]]
