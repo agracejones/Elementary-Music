@@ -7,4 +7,4 @@ Unit:
 Lesson: "[[K 1.1 - First day of school]]"
 NextLesson:
 ---
-
+![[Alverson.excalidraw 1]]
