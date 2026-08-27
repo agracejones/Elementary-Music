@@ -7,3 +7,4 @@ Unit:
 Lesson: "[[1st 1.1 - First day of school]]"
 NextLesson: "[[1st 1.2 - Steady beat vs. rhythm]]"
 ---
+![[Bliven.excalidraw]]
