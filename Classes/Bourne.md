@@ -7,3 +7,4 @@ Unit:
 Lesson: "[[3rd 1.1 - First day of school]]"
 NextLesson: "[[3rd 1.2 - Note values and so-mi]]"
 ---
+![[Bourne.excalidraw]]
