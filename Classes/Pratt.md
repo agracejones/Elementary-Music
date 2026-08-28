@@ -7,3 +7,4 @@ Unit:
 Lesson: "[[4th 1.1 - First day of school]]"
 NextLesson: "[[4th 1.2 - Note values and so-mi]]"
 ---
+![[Pratt.excalidraw]]
