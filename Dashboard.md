@@ -61,6 +61,7 @@ dv.table(
 );
 ```
 
+## Weekly Schedule
 
 ![[Week Schedule]]
 > There are at least two hours of prep **every day.** Use them wisely and you'll never have to take work home!
