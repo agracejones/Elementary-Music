@@ -64,7 +64,7 @@ dv.table(
 ## Weekly Schedule
 
 ![[Week Schedule]]
-> There are at least two hours of prep **every day.** Use them wisely and you'll never have to take work home!
+> There is at least an hour and a half of prep **every day.** Use it wisely and you'll never have to take work home!
 
 - Before crosswalk
 	- [ ] Put away lunch and belongings
@@ -86,3 +86,5 @@ dv.table(
 - [ ] Print, laminate, and cut pokemon game cards
 - [ ] Make, print, laminate, and cut rhythm building blocks
 - [ ] Make emergency sub plans
+- [ ] Catch up on lesson plans
+	- [ ] 2nd 1.4
