@@ -76,6 +76,9 @@ dv.table(
 	- [ ] Glance over next class's lesson plan and update current and next lesson on previous class
 	- [ ] Room reset
 	- [ ] Movement break
+- Lunch
+	- [ ] This is my break! Don't do any work. Just eat, use the bathroom, and unwind.
+	- [ ] If not watching an episode of a show, set a timer so that I get back on track afterwards.
 - 45+ minute prep period
 	- [ ] Check running to-do
 	- [ ] Make sure lesson plans are ready 2 weeks out
