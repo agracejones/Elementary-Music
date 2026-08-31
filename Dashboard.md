@@ -65,6 +65,15 @@ dv.table(
 
 ![[Week Schedule]]
 > There are at least two hours of prep **every day.** Use them wisely and you'll never have to take work home!
+
+- Before crosswalk
+	- [ ] Put away lunch and belongings
+	- [ ] Pick secret student number and mark lists
+	- [ ] Open all seating charts and lesson plans
+	- [ ] Pray
+- 10 minute breaks between classes
+	- [ ] Use the bathroom
+	- [ ] Glance over next lesson plan
 ## To-Do
 - [ ] Print, laminate, and cut picture rhythms
 - [ ] Print, laminate, and cut pokemon game cards
