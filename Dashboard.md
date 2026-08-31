@@ -84,6 +84,8 @@ dv.table(
 	- [ ] Make sure lesson plans are ready 2 weeks out
 	- [ ] Get ahead on lesson plans if needed
 	- [ ] Longer movement break
+- Before leaving
+	- [ ] Che
 ## To-Do
 - [ ] Print, laminate, and cut picture rhythms
 - [ ] Print, laminate, and cut pokemon game cards
