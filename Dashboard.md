@@ -62,8 +62,8 @@ dv.table(
 ```
 
 
-
-
+![[Week Schedule]]
+> There are at least two hours of prep **every day.** Use them wisely and you'll never have to take work home!
 ## To-Do
 - [ ] Print, laminate, and cut picture rhythms
 - [ ] Print, laminate, and cut pokemon game cards
