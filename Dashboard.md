@@ -73,8 +73,16 @@ dv.table(
 	- [ ] Pray
 - 10 minute breaks between classes
 	- [ ] Use the bathroom
-	- [ ] Glance over next lesson plan
+	- [ ] Glance over next class's lesson plan and update current and next lesson on previous class
+	- [ ] Room reset
+	- [ ] Movement break
+- 45+ minute prep period
+	- [ ] Check running to-do
+	- [ ] Make sure lesson plans are ready 2 weeks out
+	- [ ] Get ahead on lesson plans if needed
+	- [ ] Longer movement break
 ## To-Do
 - [ ] Print, laminate, and cut picture rhythms
 - [ ] Print, laminate, and cut pokemon game cards
 - [ ] Make, print, laminate, and cut rhythm building blocks
+- [ ] Make emergency sub plans
