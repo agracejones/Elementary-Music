@@ -85,7 +85,10 @@ dv.table(
 	- [ ] Get ahead on lesson plans if needed
 	- [ ] Longer movement break
 - Before leaving
-	- [ ] Che
+	- [ ] Clean up desk and belongings
+	- [ ] Review tomorrow's classes
+	- [ ] Update to-do list
+	- [ ] Lights and door
 ## To-Do
 - [ ] Print, laminate, and cut picture rhythms
 - [ ] Print, laminate, and cut pokemon game cards
@@ -101,3 +104,5 @@ dv.table(
 	- [ ] 5th 1.4
 	- [ ] K 1.3
 	- [ ] K 1.4
+- [ ] Sign up for a meeting with Jen
+- [ ] Print, cut, laminate, put up star student guide
