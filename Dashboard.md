@@ -92,7 +92,6 @@ dv.table(
 ## To-Do
 - [ ] Print, laminate, and cut picture rhythms
 - [ ] Print, laminate, and cut pokemon game cards
-- [ ] Make, print, laminate, and cut rhythm building blocks
 - [ ] Make emergency sub plans
 - [ ] Finish two weeks of lesson plans
 	- [ ] 2nd 1.4
