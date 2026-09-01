@@ -90,8 +90,8 @@ dv.table(
 	- [ ] Update to-do list
 	- [ ] Lights and door
 ## To-Do
-- [ ] Print, laminate, and cut picture rhythms
-- [ ] Print, laminate, and cut pokemon game cards
+- [x] Print, laminate, and cut picture rhythms
+- [x] Print, laminate, and cut pokemon game cards
 - [ ] Make emergency sub plans
 - [ ] Finish two weeks of lesson plans
 	- [ ] 2nd 1.4
@@ -104,4 +104,4 @@ dv.table(
 	- [ ] K 1.3
 	- [ ] K 1.4
 - [ ] Sign up for a meeting with Jen
-- [ ] Print, cut, laminate, put up star student guide
+- [x] Print, cut, laminate, put up star student guide
