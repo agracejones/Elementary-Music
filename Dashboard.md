@@ -103,5 +103,5 @@ dv.table(
 	- [ ] 5th 1.4
 	- [ ] K 1.3
 	- [ ] K 1.4
-- [ ] Sign up for a meeting with Jen
+- [x] Sign up for a meeting with Jen
 - [x] Print, cut, laminate, put up star student guide
