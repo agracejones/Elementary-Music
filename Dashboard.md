@@ -105,3 +105,4 @@ dv.table(
 	- [ ] K 1.4
 - [x] Sign up for a meeting with Jen
 - [x] Print, cut, laminate, put up star student guide
+- [ ] Print small group questionnaire
