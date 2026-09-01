@@ -91,7 +91,7 @@ dv.table(
 	- [ ] Lights and door
 ## To-Do
 - [x] Print, laminate, and cut picture rhythms
-- [x] Print, laminate, and cut pokemon game cards
+- [ ] Print, laminate, and cut pokemon game cards
 - [ ] Make emergency sub plans
 - [ ] Finish two weeks of lesson plans
 	- [ ] 2nd 1.4
