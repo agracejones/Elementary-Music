@@ -95,11 +95,11 @@ dv.table(
 - [ ] Make emergency sub plans
 - [ ] Finish two weeks of lesson plans
 	- [x] 2nd 1.4
-	- [ ] 3rd 1.3
+	- [x] 3rd 1.3
 	- [x] 3rd 1.4
-	- [ ] 4th 1.3
+	- [x] 4th 1.3
 	- [x] 4th 1.4
-	- [ ] 5th 1.3
+	- [x] 5th 1.3
 	- [x] 5th 1.4
 	- [ ] K 1.3
 	- [ ] K 1.4
