@@ -6,7 +6,7 @@ Time:
   Monday: 10:10-10:40
   Wednesday: 8:50-9:20
 Unit:
-Lesson: "[[3rd 1.2 - Note values and so-mi]] and do classroom playlist"
+Lesson: "[[3rd 1.2 - Note values and so-mi]], start with solfege and go from there."
 NextLesson:
 ---
 ![[Williams.excalidraw]]
