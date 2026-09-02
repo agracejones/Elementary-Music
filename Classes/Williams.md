@@ -1,6 +1,6 @@
 ---
 Grade: 3
-Teacher: Mr. Williams
+Teacher: Mr. [[Williams]]
 Days: Monday, Wednesday
 Time:
   Monday: 10:10-10:40

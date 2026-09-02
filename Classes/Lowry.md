@@ -1,6 +1,6 @@
 ---
 Grade: "5"
-Teacher: Mrs. Lowry
+Teacher: Mrs. [[Lowry]]
 Days: Wednesday, Friday
 Time: 2:10-2:40
 Unit:

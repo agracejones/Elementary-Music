@@ -1,6 +1,6 @@
 ---
 Grade: "1"
-Teacher: Mrs. Greene
+Teacher: Mrs. [[Greene]]
 Days: Monday, Wednesday
 Time: 12:50-1:20
 Unit:

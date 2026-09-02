@@ -1,6 +1,6 @@
 ---
 Grade: "2"
-Teacher: Mrs. Chuprova
+Teacher: Mrs. [[Chuprova]]
 Days: Tuesday, Thursday
 Time: 1:30-2:00
 Unit:

@@ -1,6 +1,6 @@
 ---
 Grade: "3"
-Teacher: Mrs. Bourne
+Teacher: Mrs. [[Bourne]]
 Days: Tuesday, Thursday
 Time: 8:50-9:20
 Unit:

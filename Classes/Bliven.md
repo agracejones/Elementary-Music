@@ -1,6 +1,6 @@
 ---
 Grade: 1/2
-Teacher: Mrs. Bliven
+Teacher: Mrs. [[Bliven]]
 Days: Monday, Wednesday
 Time: 1:30-2:00
 Unit:

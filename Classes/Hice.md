@@ -1,6 +1,6 @@
 ---
 Grade: "4"
-Teacher: Mrs. Hice
+Teacher: Mrs. [[Hice]]
 Days: Tuesday, Thursday
 Time: 10:10-10:40
 Unit:

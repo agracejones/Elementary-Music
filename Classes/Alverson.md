@@ -1,6 +1,6 @@
 ---
 Grade: K
-Teacher: Mrs. Alverson
+Teacher: Mrs. [[Alverson]]
 Days: Wednesday, Friday
 Time: 9:30-10:00
 Unit:

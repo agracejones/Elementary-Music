@@ -1,6 +1,6 @@
 ---
 Grade: "4"
-Teacher: Mrs. Pratt
+Teacher: Mrs. [[Pratt]]
 Days: Wednesday, Friday
 Time: 10:10-10:40
 Unit:

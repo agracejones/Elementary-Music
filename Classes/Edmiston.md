@@ -1,6 +1,6 @@
 ---
 Grade: K
-Teacher: Mrs. Edmiston
+Teacher: Mrs. [[Edmiston]]
 Days: Tuesday, Thursday
 Time: 9:30-10:00
 Unit:
