@@ -94,9 +94,9 @@ dv.table(
 - [ ] Print, laminate, and cut pokemon game cards
 - [ ] Make emergency sub plans
 - [ ] Finish two weeks of lesson plans
-	- [ ] 2nd 1.4
+	- [x] 2nd 1.4
 	- [ ] 3rd 1.3
-	- [ ] 3rd 1.4
+	- [x] 3rd 1.4
 	- [ ] 4th 1.3
 	- [ ] 4th 1.4
 	- [ ] 5th 1.3
@@ -105,5 +105,5 @@ dv.table(
 	- [ ] K 1.4
 - [x] Sign up for a meeting with Jen
 - [x] Print, cut, laminate, put up star student guide
-- [ ] Print small group questionnaire
-- [ ] Make small group snack schedule
+- [x] Print small group questionnaire
+- [x] Make small group snack schedule
