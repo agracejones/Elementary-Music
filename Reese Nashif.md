@@ -1,7 +1,7 @@
 ---
-Name: Harper Brown
-Grade: "7"
-Birthday: 2/12
+Name: Reese Nashif
+Grade: "8"
+Birthday:
 Movie/TV:
 Candy:
 Snack:
