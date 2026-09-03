@@ -1,7 +1,7 @@
 ---
-Name: Sydney
-Grade:
-Birthday:
+Name: Harper Brown
+Grade: "7"
+Birthday: 2/12
 Movie/TV:
 Candy:
 Snack:
