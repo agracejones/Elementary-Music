@@ -107,5 +107,5 @@ dv.table(
 - [x] Print, cut, laminate, put up star student guide
 - [x] Print small group questionnaire
 - [x] Make small group snack schedule
-- [ ] Make a list of small group birthdays 
-- [ ] Write star student emails
+- [x] Make a list of small group birthdays 
+- [ ] Write star student emails Friday
