@@ -93,7 +93,7 @@ dv.table(
 - [ ] Print, laminate, and cut pokemon game cards
 - [ ] Write star student emails Friday
 	- [x] Isabel McCormick
-	- [ ] Zander Fennig
+	- [x] Zander Fennig
 	- [ ] Weston Schott
 	- [ ] Sofia McPherson
 	- [ ] Emily Gay
