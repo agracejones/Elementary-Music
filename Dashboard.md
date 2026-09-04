@@ -95,8 +95,8 @@ dv.table(
 	- [x] Isabel McCormick
 	- [x] Zander Fennig
 	- [x] Weston Schott
-	- [ ] Sofia McPherson
-	- [ ] Emily Gay
+	- [x] Sofia McPherson
+	- [x] Emily Gay
 	- [ ] Celeste Carranza
 	- [ ] Annie Miller
 	- [ ] Gavin Kessler
