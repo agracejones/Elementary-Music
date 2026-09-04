@@ -94,7 +94,7 @@ dv.table(
 - [ ] Write star student emails Friday
 	- [x] Isabel McCormick
 	- [x] Zander Fennig
-	- [ ] Weston Schott
+	- [x] Weston Schott
 	- [ ] Sofia McPherson
 	- [ ] Emily Gay
 	- [ ] Celeste Carranza
