@@ -110,4 +110,3 @@ dv.table(
 - [x] Make a list of small group birthdays 
 - [ ] Write star student emails Friday
 - [ ] Print more song sheets
-- [ ] hajjjjjj
