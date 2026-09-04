@@ -90,23 +90,14 @@ dv.table(
 	- [ ] Update to-do list
 	- [ ] Lights and door
 ## To-Do
-- [x] Print, laminate, and cut picture rhythms
 - [ ] Print, laminate, and cut pokemon game cards
-- [x] Make emergency sub plans
-- [ ] Finish two weeks of lesson plans
-	- [x] 2nd 1.4
-	- [x] 3rd 1.3
-	- [x] 3rd 1.4
-	- [x] 4th 1.3
-	- [x] 4th 1.4
-	- [x] 5th 1.3
-	- [x] 5th 1.4
+- [ ] Write star student emails Friday
+- [ ] Print more song sheets (3 pages)
+- [ ] Lesson plans
 	- [ ] K 1.3
 	- [ ] K 1.4
-- [x] Sign up for a meeting with Jen
-- [x] Print, cut, laminate, put up star student guide
-- [x] Print small group questionnaire
-- [x] Make small group snack schedule
-- [x] Make a list of small group birthdays 
-- [ ] Write star student emails Friday
-- [ ] Print more song sheets
+	- [ ] 1st 1.5
+	- [ ] 1st 1.6
+	- [ ] 2nd 1.5
+	- [ ] 2nd 1.6
+	- [ ] 3rd
