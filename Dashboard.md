@@ -105,8 +105,8 @@ dv.table(
 	- [x] Harper Glodt(after Lowry's class)
 	- [x] Olivia Garcia
 	- [x] Brooklynn Edmiston
-	- [ ] Jet Leigh
-	- [ ] Daklynn DuPont
+	- [x] Jet Leigh
+	- [x] Daklynn DuPont
 - [x] Print more song sheets (3 pages)
 - [ ] Lesson plans
 	- [ ] K 1.3
