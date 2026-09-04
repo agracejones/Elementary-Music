@@ -92,7 +92,7 @@ dv.table(
 ## To-Do
 - [ ] Print, laminate, and cut pokemon game cards
 - [ ] Write star student emails Friday
-	- [ ] Isabel McCormick
+	- [x] Isabel McCormick
 	- [ ] Zander Fennig
 	- [ ] Weston Schott
 	- [ ] Sofia McPherson
