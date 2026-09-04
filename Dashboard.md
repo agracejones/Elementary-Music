@@ -92,6 +92,13 @@ dv.table(
 ## To-Do
 - [ ] Print, laminate, and cut pokemon game cards
 - [ ] Write star student emails Friday
+	- [ ] Isabel McCormick
+	- [ ] Zander Fennig
+	- [ ] Weston Schott
+	- [ ] Sofia McPherson
+	- [ ] Emily Gay
+	- [ ] Celeste Carranza
+	- [ ] 
 - [ ] Print more song sheets (3 pages)
 - [ ] Lesson plans
 	- [ ] K 1.3
