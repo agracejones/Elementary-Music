@@ -107,7 +107,7 @@ dv.table(
 	- [ ] Brooklynn Edmiston
 	- [ ] Jet Leigh
 	- [ ] Daklynn DuPont
-- [ ] Print more song sheets (3 pages)
+- [x] Print more song sheets (3 pages)
 - [ ] Lesson plans
 	- [ ] K 1.3
 	- [ ] K 1.4
