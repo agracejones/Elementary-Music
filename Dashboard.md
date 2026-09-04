@@ -98,7 +98,15 @@ dv.table(
 	- [ ] Sofia McPherson
 	- [ ] Emily Gay
 	- [ ] Celeste Carranza
-	- [ ] 
+	- [ ] Annie Miller
+	- [ ] Gavin Kessler
+	- [ ] Juniper Cady
+	- [ ] Liam Gay
+	- [ ] Harper Glodt(after Lowry's class)
+	- [ ] Olivia Garcia
+	- [ ] Brooklynn Edmiston
+	- [ ] Jet Leigh
+	- [ ] Daklynn DuPont
 - [ ] Print more song sheets (3 pages)
 - [ ] Lesson plans
 	- [ ] K 1.3
