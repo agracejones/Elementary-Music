@@ -101,10 +101,10 @@ dv.table(
 	- [x] Annie Miller
 	- [x] Gavin Kessler
 	- [x] Juniper Cady
-	- [ ] Liam Gay
-	- [ ] Harper Glodt(after Lowry's class)
-	- [ ] Olivia Garcia
-	- [ ] Brooklynn Edmiston
+	- [x] Liam Gay
+	- [x] Harper Glodt(after Lowry's class)
+	- [x] Olivia Garcia
+	- [x] Brooklynn Edmiston
 	- [ ] Jet Leigh
 	- [ ] Daklynn DuPont
 - [x] Print more song sheets (3 pages)
