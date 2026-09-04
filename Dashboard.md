@@ -92,7 +92,7 @@ dv.table(
 ## To-Do
 - [x] Print, laminate, and cut picture rhythms
 - [ ] Print, laminate, and cut pokemon game cards
-- [ ] Make emergency sub plans
+- [x] Make emergency sub plans
 - [ ] Finish two weeks of lesson plans
 	- [x] 2nd 1.4
 	- [x] 3rd 1.3
@@ -109,3 +109,5 @@ dv.table(
 - [x] Make small group snack schedule
 - [x] Make a list of small group birthdays 
 - [ ] Write star student emails Friday
+- [ ] Print more song sheets
+- [ ] hajjjjjj
