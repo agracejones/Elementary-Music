@@ -97,10 +97,10 @@ dv.table(
 	- [x] Weston Schott
 	- [x] Sofia McPherson
 	- [x] Emily Gay
-	- [ ] Celeste Carranza
-	- [ ] Annie Miller
-	- [ ] Gavin Kessler
-	- [ ] Juniper Cady
+	- [x] Celeste Carranza
+	- [x] Annie Miller
+	- [x] Gavin Kessler
+	- [x] Juniper Cady
 	- [ ] Liam Gay
 	- [ ] Harper Glodt(after Lowry's class)
 	- [ ] Olivia Garcia
