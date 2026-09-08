@@ -43,9 +43,9 @@ K:
 5:
 #### Resource Bank
 
-| Resource | Type | Grade Levels |
-| -------- | ---- | ------------ |
-|          |      |              |
+| Resource     | Type | Grade Levels |
+| ------------ | ---- | ------------ |
+| Four Corners | Game | 3, 4, 5      |
 
 ## Mi, So, La
 #### Mastery looks like...
@@ -62,6 +62,7 @@ K:
 | Resource                 | Type | Grade Levels     |
 | ------------------------ | ---- | ---------------- |
 | [[Strawberry Shortcake]] | Song | K, 1, 2, 3, 4, 5 |
+| Four Corners             | Game | 3, 4, 5          |
 
 ## Do, Mi, So, La
 #### Mastery looks like...
@@ -75,9 +76,9 @@ K:
 5:
 #### Resource Bank
 
-| Resource | Type | Grade Levels |
-| -------- | ---- | ------------ |
-|          |      |              |
+| Resource     | Type | Grade Levels |
+| ------------ | ---- | ------------ |
+| Four Corners | Game | 3, 4, 5      |
 
 ## Do, Re, Mi, Fa, So, La, Ti, Do'
 #### Mastery looks like...
@@ -91,6 +92,6 @@ K:
 5:
 #### Resource Bank
 
-| Resource | Type | Grade Levels |
-| -------- | ---- | ------------ |
-|          |      |              |
+| Resource     | Type | Grade Levels |
+| ------------ | ---- | ------------ |
+| Four Corners | Game | 3, 4, 5      |

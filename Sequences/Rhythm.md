@@ -64,9 +64,9 @@ K:
 5:
 #### Resource Bank
 
-| Resource | Type | Grade Levels |
-| -------- | ---- | ------------ |
-|          |      |              |
+| Resource     | Type | Grade Levels |
+| ------------ | ---- | ------------ |
+| Four Corners | Game | 3, 4, 5      |
 
 ## Ta-ka-di-mi
 #### Mastery looks like...
@@ -80,9 +80,9 @@ K:
 5:
 #### Resource Bank
 
-| Resource | Type | Grade Levels |
-| -------- | ---- | ------------ |
-|          |      |              |
+| Resource     | Type | Grade Levels |
+| ------------ | ---- | ------------ |
+| Four Corners | Game | 3, 4, 5      |
 
 ## Dotted rhythms and syncopation
 #### Mastery looks like...
@@ -96,6 +96,6 @@ K:
 5:
 #### Resource Bank
 
-| Resource | Type | Grade Levels |
-| -------- | ---- | ------------ |
-|          |      |              |
+| Resource     | Type | Grade Levels |
+| ------------ | ---- | ------------ |
+| Four Corners | Game | 3, 4, 5      |
