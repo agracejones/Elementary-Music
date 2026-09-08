@@ -11,11 +11,12 @@ K: Feeling the beat with songs and games
 5: Generating steady beat individually
 #### Resource Bank
 
-| Resource             | Type | Grade Levels |
-| -------------------- | ---- | ------------ |
-| [[Move to the Beat]] | Song | K, 1         |
-| Pass the Beat        | Game | 1, 2, 3      |
-| Beat Leader          | Game | 4, 5         |
+| Resource                  | Type | Grade Levels |
+| ------------------------- | ---- | ------------ |
+| [[Move to the Beat]]      | Song | K, 1         |
+| [[Hey, Hey, Look at Me!]] | Song | K, 1         |
+| Pass the Beat             | Game | 1, 2, 3      |
+| Beat Leader               | Game | 4, 5         |
 
 ## One Sound vs. Two Sounds
 #### Mastery looks like...
