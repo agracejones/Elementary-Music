@@ -15,6 +15,7 @@ K:
 | --------------------------------- | ------------- | ------------ |
 | [[Oh My, No More Pie]]            | Song          | K, 1, 2      |
 | [[Hickety Pickety Bumblebee]]     | Song          | K, 1, 2      |
+| [[I Like Singin']]                | Song/Kazoo    | K, 1, 2      |
 | [[My Bonnie Lies Over The Ocean]] | Song/Movement | 3, 4, 5      |
 
 ## Arioso

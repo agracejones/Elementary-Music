@@ -10,9 +10,9 @@ K:
 5:
 #### Resource Bank
 
-| Resource | Type | Grade Levels |
-| -------- | ---- | ------------ |
-|          |      |              |
+| Resource          | Type          | Grade Levels |
+| ----------------- | ------------- | ------------ |
+| [[Reach Up High]] | Song/movement | K, 1         |
 
 ## Melodic contour
 #### Mastery looks like...
@@ -26,9 +26,9 @@ K:
 5:
 #### Resource Bank
 
-| Resource | Type | Grade Levels |
-| -------- | ---- | ------------ |
-|          |      |              |
+| Resource             | Type                | Grade Levels |
+| -------------------- | ------------------- | ------------ |
+| Kazoo Roller Coaster | Turn Activity/Kazoo | K, 1, 2      |
 
 ## So and Mi
 #### Mastery looks like...

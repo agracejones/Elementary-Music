@@ -14,6 +14,7 @@ K: Feeling the beat with songs and games
 | Resource                  | Type | Grade Levels |
 | ------------------------- | ---- | ------------ |
 | [[Move to the Beat]]      | Song | K, 1         |
+| [[Hey, Everybody!]]       | Song | K, 1         |
 | [[Hey, Hey, Look at Me!]] | Song | K, 1         |
 | Pass the Beat             | Game | 1, 2, 3      |
 | Beat Leader               | Game | 4, 5         |
