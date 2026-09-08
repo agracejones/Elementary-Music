@@ -58,9 +58,9 @@ K:
 5:
 #### Resource Bank
 
-| Resource | Type | Grade Levels |
-| -------- | ---- | ------------ |
-|          |      |              |
+| Resource                 | Type | Grade Levels |
+| ------------------------ | ---- | ------------ |
+| [[Strawberry Shortcake]] |      |              |
 
 ## Do, Mi, So, La
 #### Mastery looks like...

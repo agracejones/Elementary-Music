@@ -45,9 +45,10 @@ K:
 5:
 #### Resource Bank
 
-| Resource | Type | Grade Levels |
-| -------- | ---- | ------------ |
-|          |      |              |
+| Resource                 | Type | Grade Levels     |
+| ------------------------ | ---- | ---------------- |
+| [[Strawberry Shortcake]] | Song | K, 1, 2, 3, 4, 5 |
+|                          |      |                  |
 
 ## Taa-aa and Taa-aa-aa-aa
 #### Mastery looks like...
