@@ -65,10 +65,11 @@ K:
 5:
 #### Resource Bank
 
-| Resource     | Type | Grade Levels |
-| ------------ | ---- | ------------ |
-| Four Corners | Game | 3, 4, 5      |
-|              |      |              |
+| Resource                   | Type | Grade Levels |
+| -------------------------- | ---- | ------------ |
+| Four Corners               | Game | 3, 4, 5      |
+| [[I Can Sing a High Note]] | Song | K,           |
+|                            |      |              |
 
 ## Ta-ka-di-mi
 #### Mastery looks like...
