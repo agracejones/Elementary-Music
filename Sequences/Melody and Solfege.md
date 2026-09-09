@@ -31,6 +31,7 @@ K:
 | -------------------- | ------------------- | ------------ |
 | Kazoo Roller Coaster | Turn Activity/Kazoo | K, 1, 2      |
 | Scarves              | Listening Activity  | K, 1, 2      |
+| Autumn Leaves        | Song/Movement       | K, 1, 2      |
 
 ## So and Mi
 #### Mastery looks like...

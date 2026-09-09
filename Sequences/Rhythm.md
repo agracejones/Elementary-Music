@@ -35,6 +35,7 @@ K:
 | -------------------- | ---- | ------------ |
 | Fruit!               | Game | K, 1, 2      |
 | Canva syllable games | Game | K, 1, 2      |
+|                      |      |              |
 
 ## Ta and Ta-di
 #### Mastery looks like...
@@ -51,8 +52,8 @@ K:
 | Resource                 | Type | Grade Levels     |
 | ------------------------ | ---- | ---------------- |
 | [[Strawberry Shortcake]] | Song | K, 1, 2, 3, 4, 5 |
+| Hop Old Squirrel         | Song | K, 1, 2, 3, 4, 5 |
 | Four Corners             | Game | 3, 4, 5          |
-|                          |      |                  |
 
 ## Taa-aa and Taa-aa-aa-aa
 #### Mastery looks like...
