@@ -30,9 +30,11 @@ K:
 5:
 #### Resource Bank
 
-| Resource | Type | Grade Levels |
-| -------- | ---- | ------------ |
-|          |      |              |
+| Resource                      | Type       | Grade Levels |
+| ----------------------------- | ---------- | ------------ |
+| [[Play Me A Jazzy Beat]]      | Song/Kazoo | K, 1, 2      |
+| [[Hickety Pickety Bumblebee]] | Song       | K, 1, 2      |
+| Question of the Day           | Turn       |              |
 
 ## Improvising with rhythm or movement
 #### Mastery looks like...
@@ -46,9 +48,9 @@ K:
 5:
 #### Resource Bank
 
-| Resource | Type | Grade Levels |
-| -------- | ---- | ------------ |
-|          |      |              |
+| Resource                   | Type          | Grade Levels |
+| -------------------------- | ------------- | ------------ |
+| [[Hey, Hey, Look at Me!]]] | Song/Movement | K, 1, 2      |
 
 ## Improvising with melody
 #### Mastery looks like...
