@@ -68,10 +68,11 @@ K:
 | Resource     | Type | Grade Levels |
 | ------------ | ---- | ------------ |
 | Four Corners | Game | 3, 4, 5      |
+|              |      |              |
 
 ## Ta-ka-di-mi
 #### Mastery looks like...
-
+Able to both sight read and dictate rhythm patterns using sixteenth notes.
 #### Grade-Level Approaches
 K:
 1:
@@ -87,7 +88,7 @@ K:
 
 ## Dotted rhythms and syncopation
 #### Mastery looks like...
-
+Able to both sight read and dictate rhythm patterns using dotted and syncopated rhythms.
 #### Grade-Level Approaches
 K:
 1:
