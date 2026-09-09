@@ -52,6 +52,7 @@ K:
 | ------------------------ | ---- | ---------------- |
 | [[Strawberry Shortcake]] | Song | K, 1, 2, 3, 4, 5 |
 | Four Corners             | Game | 3, 4, 5          |
+|                          |      |                  |
 
 ## Taa-aa and Taa-aa-aa-aa
 #### Mastery looks like...
@@ -83,9 +84,11 @@ K:
 5:
 #### Resource Bank
 
-| Resource     | Type | Grade Levels |
-| ------------ | ---- | ------------ |
-| Four Corners | Game | 3, 4, 5      |
+| Resource                | Type | Grade Levels |
+| ----------------------- | ---- | ------------ |
+| Four Corners            | Game | 3, 4, 5      |
+| Tideo                   | Song | 3, 4, 5      |
+| Chicken in the Barnyard | Song | 3, 4, 5      |
 
 ## Dotted rhythms and syncopation
 #### Mastery looks like...
@@ -99,6 +102,8 @@ K:
 5:
 #### Resource Bank
 
-| Resource     | Type | Grade Levels |
-| ------------ | ---- | ------------ |
-| Four Corners | Game | 3, 4, 5      |
+| Resource      | Type | Grade Levels |
+| ------------- | ---- | ------------ |
+| Four Corners  | Game | 3, 4, 5      |
+| Syncocopation | Song | 3, 4, 5      |
+| Tumbalalaika  | Song | 3, 4, 5      |
