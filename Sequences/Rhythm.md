@@ -21,7 +21,7 @@ K: Feeling the beat with songs and games
 
 ## One Sound vs. Two Sounds
 #### Mastery looks like...
-
+Being able to tell one sound from two sounds, preparing to differentiate between quarter and eighth notes.
 #### Grade-Level Approaches
 K:
 1:
@@ -31,13 +31,14 @@ K:
 5:
 #### Resource Bank
 
-| Resource | Type | Grade Levels |
-| -------- | ---- | ------------ |
-|          |      |              |
+| Resource             | Type | Grade Levels |
+| -------------------- | ---- | ------------ |
+| Fruit!               | Game | K, 1, 2      |
+| Canva syllable games | Game | K, 1, 2      |
 
 ## Ta and Ta-di
 #### Mastery looks like...
-
+Differentiating between quarter and eighth notes, demonstrating an ability to both sight read and dictate rhythm patterns.
 #### Grade-Level Approaches
 K:
 1:
@@ -54,7 +55,7 @@ K:
 
 ## Taa-aa and Taa-aa-aa-aa
 #### Mastery looks like...
-
+Able to both sight read and dictate rhythm patterns using half notes and whole notes.
 #### Grade-Level Approaches
 K:
 1:

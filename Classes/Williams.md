@@ -6,7 +6,7 @@ Time:
   Monday: 10:10-10:40
   Wednesday: 8:50-9:20
 Unit:
-Lesson: "[[3rd 1.2 - Note values and so-mi]], start with solfege and go from there."
-NextLesson: "[[3rd 1.3 - Half notes and La]]"
+Lesson: "[[3rd 1.3 - Half notes and La]]"
+NextLesson: "[[3rd 1.4 - Major and Minor]]"
 ---
 ![[Williams.excalidraw]]
