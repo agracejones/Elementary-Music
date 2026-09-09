@@ -10,9 +10,10 @@ K:
 5:
 #### Resource Bank
 
-| Resource          | Type          | Grade Levels |
-| ----------------- | ------------- | ------------ |
-| [[Reach Up High]] | Song/movement | K, 1         |
+| Resource                   | Type          | Grade Levels |
+| -------------------------- | ------------- | ------------ |
+| [[Reach Up High]]          | Song/movement | K, 1         |
+| [[I Can Sing a High Note]] | Song          | K, 1, 2      |
 
 ## Melodic contour
 #### Mastery looks like...

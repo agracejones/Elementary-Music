@@ -65,11 +65,11 @@ K:
 5:
 #### Resource Bank
 
-| Resource                   | Type | Grade Levels |
-| -------------------------- | ---- | ------------ |
-| Four Corners               | Game | 3, 4, 5      |
-| [[I Can Sing a High Note]] | Song | K,           |
-|                            |      |              |
+| Resource                   | Type          | Grade Levels     |
+| -------------------------- | ------------- | ---------------- |
+| [[I Can Sing a High Note]] | Song          | K, 1, 2, 3, 4, 5 |
+| Four Corners               | Game          | 3, 4, 5          |
+| St. Anne's Reel            | Song/movement | 3, 4, 5          |
 
 ## Ta-ka-di-mi
 #### Mastery looks like...
