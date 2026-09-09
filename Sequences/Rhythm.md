@@ -31,11 +31,11 @@ K:
 5:
 #### Resource Bank
 
-| Resource             | Type | Grade Levels |
-| -------------------- | ---- | ------------ |
-| Fruit!               | Game | K, 1, 2      |
-| Canva syllable games | Game | K, 1, 2      |
-|                      |      |              |
+| Resource                                                          | Type  | Grade Levels |
+| ----------------------------------------------------------------- | ----- | ------------ |
+| [Rhythm play-alongs](https://www.youtube.com/watch?v=ObwSwOLGVbQ) | Video | K, 1         |
+| Fruit!                                                            | Game  | K, 1, 2      |
+| Canva syllable games                                              | Game  | K, 1, 2      |
 
 ## Ta and Ta-di
 #### Mastery looks like...
